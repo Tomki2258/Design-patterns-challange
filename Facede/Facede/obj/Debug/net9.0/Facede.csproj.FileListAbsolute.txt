@@ -1,0 +1,14 @@
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\bin\Debug\net9.0\Facede.exe
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\bin\Debug\net9.0\Facede.deps.json
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\bin\Debug\net9.0\Facede.runtimeconfig.json
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\bin\Debug\net9.0\Facede.dll
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\bin\Debug\net9.0\Facede.pdb
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.AssemblyInfo.cs
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.dll
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\refint\Facede.dll
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.pdb
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\Facede.genruntimeconfig.cache
+C:\Users\Tomek\Documents\GitHub\Design-patterns-challange\Facede\Facede\obj\Debug\net9.0\ref\Facede.dll
