@@ -6,6 +6,6 @@ public class GameManager
 {
     public IEnemy CreateEnemy(IFactory factory)
     {
-        return factory.CreateEnemy(factory);
+        return factory.CreateEnemy();
     }
 }
