@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/tomekr/.nuget/packages/": {}
+    "C:\\Users\\Tomek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Fabric/Fabric/Fabric.csproj",
+      "projectUniqueName": "C:\\Users\\Tomek\\Documents\\GitHub\\Design-patterns-challange\\Fabric\\Fabric\\Fabric.csproj",
       "projectName": "Fabric",
-      "projectPath": "/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Fabric/Fabric/Fabric.csproj",
-      "packagesPath": "/home/tomekr/.nuget/packages/",
-      "outputPath": "/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Fabric/Fabric/obj/",
+      "projectPath": "C:\\Users\\Tomek\\Documents\\GitHub\\Design-patterns-challange\\Fabric\\Fabric\\Fabric.csproj",
+      "packagesPath": "C:\\Users\\Tomek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tomek\\Documents\\GitHub\\Design-patterns-challange\\Fabric\\Fabric\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tomekr/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Tomek\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -60,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.4, 9.0.4]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Tomek\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -2,7 +2,7 @@ namespace Fabric.Factories;
 
 public class FlyingFactory : IFactory
 {
-    public IEnemy CreateEnemy(IFactory factory)
+    public IEnemy CreateEnemy()
     {
         return new FlyingEnemy();
     }

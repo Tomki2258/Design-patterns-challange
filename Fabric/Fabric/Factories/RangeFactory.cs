@@ -2,7 +2,7 @@ namespace Fabric.Factories;
 
 public class RangeFactory : IFactory
 {
-    public IEnemy CreateEnemy(IFactory factory)
+    public IEnemy CreateEnemy()
     {
         return new RangeEnemy();
     }
