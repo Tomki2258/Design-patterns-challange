@@ -1,0 +1,15 @@
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/bin/Debug/net9.0/Decorator
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/bin/Debug/net9.0/Decorator.deps.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/bin/Debug/net9.0/Decorator.runtimeconfig.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/bin/Debug/net9.0/Decorator.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/bin/Debug/net9.0/Decorator.pdb
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfoInputs.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfo.cs
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.csproj.CoreCompileInputs.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.sourcelink.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/refint/Decorator.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.pdb
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/Decorator.genruntimeconfig.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Decorator/Decorator/obj/Debug/net9.0/ref/Decorator.dll
