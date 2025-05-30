@@ -1,0 +1,15 @@
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/bin/Debug/net9.0/AbstractFactory
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/bin/Debug/net9.0/AbstractFactory.deps.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/bin/Debug/net9.0/AbstractFactory.runtimeconfig.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/bin/Debug/net9.0/AbstractFactory.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/bin/Debug/net9.0/AbstractFactory.pdb
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.AssemblyInfoInputs.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.AssemblyInfo.cs
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.sourcelink.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/refint/AbstractFactory.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.pdb
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/AbstractFactory.genruntimeconfig.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/obj/Debug/net9.0/ref/AbstractFactory.dll
