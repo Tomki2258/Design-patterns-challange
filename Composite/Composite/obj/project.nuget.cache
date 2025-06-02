@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yz6lqzpvuXg=",
+  "success": true,
+  "projectFilePath": "/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Composite/Composite/Composite.csproj",
+  "expectedPackageFiles": [
+    "/home/tomekr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
