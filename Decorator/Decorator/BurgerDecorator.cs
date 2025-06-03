@@ -5,7 +5,7 @@ public abstract class BurgerDecorator : Burger
     private readonly Burger burger;
 
     protected BurgerDecorator(Burger burger)
-    {
+    { 
         this.burger = burger;
     }
 

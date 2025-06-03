@@ -14,14 +14,14 @@ class Program
         var gigabyteFactory = new GigabyteFactory();
         
         //Asus parts
-        var asusGPU = asusFactory.CreateGPU();
-        var asusRAM = asusFactory.CreateRAM();
-        var asusPSU = asusFactory.CreatePSU(); 
+        var asusGPU = CreateGPU(asusFactory);
+        var asusRAM = CreateRAM(asusFactory);
+        var asusPSU = CreatePSU(asusFactory); 
         
         //Gigabyte parts
-        var gigabyteGPU = gigabyteFactory.CreateGPU();
-        var gigabyteRAM = gigabyteFactory.CreateRAM();
-        var gigabytePSU = gigabyteFactory.CreatePSU();
+        var gigabyteGPU = CreateGPU(gigabyteFactory);
+        var gigabyteRAM = CreateRAM(gigabyteFactory);
+        var gigabytePSU = CreatePSU(gigabyteFactory);
 
         
         dynamicList.Add(gigabyteGPU);
@@ -38,5 +38,18 @@ class Program
             if(x is IRAM ram) ram.ShowInfo();
         }
     }
-    
+    private static IGPU CreateGPU(IPartsFactory factory)
+    {
+        return factory.CreateGPU();
+    }
+
+    private static IRAM CreateRAM(IPartsFactory factory)
+    {
+        return factory.CreateRAM();
+    }
+
+    private static IPSU CreatePSU(IPartsFactory factory)
+    {
+        return factory.CreatePSU();
+    }
 }

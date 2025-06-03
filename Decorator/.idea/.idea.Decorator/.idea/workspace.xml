@@ -8,12 +8,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7230309b-3d8b-4df2-ab4d-0cbe4039fba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Decorator/BasicBurger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/Burger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/BurgerDecorator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/CheeseBurger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/ChickienBurger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/DoubleBurger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Decorator/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Decorator/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Decorator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/BurgerDecorator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/BurgerDecorator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/bin/Debug/net9.0/Decorator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/bin/Debug/net9.0/Decorator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/bin/Debug/net9.0/Decorator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/bin/Debug/net9.0/Decorator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/Decorator.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/ref/Decorator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/ref/Decorator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/refint/Decorator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Debug/net9.0/refint/Decorator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Decorator.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Decorator.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/Decorator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/Decorator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/bin/Debug/net9.0/Fabric.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/bin/Debug/net9.0/Fabric.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/bin/Debug/net9.0/Fabric.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/bin/Debug/net9.0/Fabric.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/bin/Debug/net9.0/Fabric.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/bin/Debug/net9.0/Fabric.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/Fabric.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/ref/Fabric.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/ref/Fabric.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/refint/Fabric.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/Debug/net9.0/refint/Fabric.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabric/Fabric/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabric/Fabric/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +55,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2xgn2K6DNOO0oelssFqkKe0UjH2" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,20 +66,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Decorator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tomek/Documents/GitHub/Design-patterns-challange/Decorator&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Decorator" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -58,8 +88,13 @@
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Decorator/Decorator.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
@@ -80,6 +115,10 @@
       <option name="presentableId" value="Default" />
       <updated>1748368377584</updated>
       <workItem from="1748368379963" duration="2733000" />
+      <workItem from="1748364540817" duration="313000" />
+      <workItem from="1748365198713" duration="1073000" />
+      <workItem from="1748437849171" duration="323000" />
+      <workItem from="1748440432198" duration="107000" />
     </task>
     <servers />
   </component>
@@ -89,5 +128,23 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsQq5PL81Q4=",
+  "dgSpecHash": "VizHQN0ZjT4=",
   "success": true,
-  "projectFilePath": "/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/AbstractFactory/AbstractFactory/AbstractFactory.csproj",
-  "expectedPackageFiles": [
-    "/home/tomekr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Tomek\\Documents\\GitHub\\Design-patterns-challange\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
