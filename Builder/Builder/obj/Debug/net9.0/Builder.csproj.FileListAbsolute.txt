@@ -1,0 +1,15 @@
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/bin/Debug/net9.0/Builder
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/bin/Debug/net9.0/Builder.deps.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/bin/Debug/net9.0/Builder.runtimeconfig.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/bin/Debug/net9.0/Builder.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/bin/Debug/net9.0/Builder.pdb
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.AssemblyInfoInputs.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.AssemblyInfo.cs
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.csproj.CoreCompileInputs.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.sourcelink.json
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/refint/Builder.dll
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.pdb
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/Builder.genruntimeconfig.cache
+/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Builder/Builder/obj/Debug/net9.0/ref/Builder.dll
