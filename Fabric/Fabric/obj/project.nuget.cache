@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SXgN3fxnp3g=",
+  "dgSpecHash": "8RWsHDnxhVk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomek\\Documents\\GitHub\\Design-patterns-challange\\Fabric\\Fabric\\Fabric.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/tomekr/Dokumenty/GitHub/Design-patterns-challange/Fabric/Fabric/Fabric.csproj",
+  "expectedPackageFiles": [
+    "/home/tomekr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
